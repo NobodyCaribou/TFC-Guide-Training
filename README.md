@@ -30,10 +30,9 @@ Week 12
 
 Integration/Debrief
 
---
-Resource library
+RESOURCE LIBRARY
 
-Exercise libraru
+EXERCISE LIBRARY
 
-Dialogue covenant
+DIALOGUE COVENANT
 

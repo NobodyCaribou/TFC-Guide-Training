@@ -2,9 +2,7 @@
 
 A training framework for developing TFC Guides
 
-Orientation
-
-Week 1
+[Week 1: Orientation](https://github.com/NobodyCaribou/TFC-Guide-Training/blob/main/Week%201:%20Orientation)
 
 Week 2
 

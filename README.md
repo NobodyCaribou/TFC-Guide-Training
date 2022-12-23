@@ -26,7 +26,7 @@ Week 9 - Leadership
 
 Week 10 - Play Session (prep + delivery)
 
-Week 11 - Business
+[Week 11 - Business](https://github.com/NobodyCaribou/TFC-Guide-Training/blob/main/Week%2011:%20Business)
 
 Week 12 - Business
 

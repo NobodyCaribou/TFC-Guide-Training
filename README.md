@@ -24,7 +24,7 @@ Week 8 - Community
 
 Week 9 - Leadership
 
-Week 10 - Play Session
+Week 10 - Play Session (prep + delivery)
 
 Week 11 - Business
 

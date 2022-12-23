@@ -20,7 +20,7 @@ Week 6 - Basecamp Trek
 
 Week 7 - Basecamp Trek
 
-[Week 8 - Community]https://github.com/NobodyCaribou/TFC-Guide-Training/blob/main/Week%208%20-%20Community
+[Week 8 - Community](https://github.com/NobodyCaribou/TFC-Guide-Training/blob/main/Week%208%20-%20Community)
 
 Week 9 - Leadership
 

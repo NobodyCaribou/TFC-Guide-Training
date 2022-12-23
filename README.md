@@ -20,15 +20,15 @@ Week 6 - Basecamp Trek
 
 Week 7 - Basecamp Trek
 
-Week 8
+Week 8 - Community
 
-Week 9
+Week 9 - Leadership
 
-Week 10
+Week 10 - Play Session
 
-Week 11
+Week 11 - Business
 
-Week 12 
+Week 12 - Business
 
 Integration/Debrief
 
